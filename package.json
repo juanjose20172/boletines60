@@ -1,0 +1,26 @@
+{
+  "name": "boletines60",
+  "version": "1.0.0",
+  "description": "boletines colegio",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "repositorio boletines colegio"
+  },
+  "keywords": [
+    "boletines",
+    "colegio"
+  ],
+  "author": "Juan",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.1"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "materialize-css": "^1.0.0"
+  }
+}
