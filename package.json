@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "repositorio boletines colegio"
+    "url": "repositorio_boletines_colegio"
   },
   "keywords": [
     "boletines",
@@ -17,7 +17,10 @@
   "author": "Juan",
   "license": "MIT",
   "devDependencies": {
-    "gulp": "^4.0.1"
+    "gulp": "^4.0.1",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-server-livereload": "^1.9.2",
+    "gulp-uglify": "^3.0.2"
   },
   "dependencies": {
     "jquery": "^3.4.1",
